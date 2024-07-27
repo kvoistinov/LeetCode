@@ -1,6 +1,6 @@
 # My solutions to algorithmic problems from the LeetCode
 
-**Total**:  687
+# Total:    687
 
 **Easy**:   217/813
 
