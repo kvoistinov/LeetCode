@@ -1,8 +1,8 @@
 # My solutions to algorithmic problems from the LeetCode
 
-# Total:    687
+# Total:    688
 
-**Easy**:   217/813
+**Easy**:   218/813
 
 **Medium**: 392/1697
 
